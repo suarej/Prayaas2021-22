@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d77f7479.chunk.css",
+    "main.js": "/static/js/main.b5a23d99.chunk.js",
+    "main.js.map": "/static/js/main.b5a23d99.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.0d578e99.js",
+    "runtime-main.js.map": "/static/js/runtime-main.0d578e99.js.map",
+    "static/css/2.49bfc874.chunk.css": "/static/css/2.49bfc874.chunk.css",
+    "static/js/2.db92b3a6.chunk.js": "/static/js/2.db92b3a6.chunk.js",
+    "static/js/2.db92b3a6.chunk.js.map": "/static/js/2.db92b3a6.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.49bfc874.chunk.css.map": "/static/css/2.49bfc874.chunk.css.map",
+    "static/css/main.d77f7479.chunk.css.map": "/static/css/main.d77f7479.chunk.css.map",
+    "static/js/2.db92b3a6.chunk.js.LICENSE.txt": "/static/js/2.db92b3a6.chunk.js.LICENSE.txt",
+    "static/media/Aditya.7d414f4c.png": "/static/media/Aditya.7d414f4c.png",
+    "static/media/ComprehensiveBatch.03be0788.png": "/static/media/ComprehensiveBatch.03be0788.png",
+    "static/media/DailyAnswerWriting.791c4ccb.png": "/static/media/DailyAnswerWriting.791c4ccb.png",
+    "static/media/Essaymodule01.ceaae553.png": "/static/media/Essaymodule01.ceaae553.png",
+    "static/media/Mohit.028b241a.png": "/static/media/Mohit.028b241a.png",
+    "static/media/Pareekshan1.0.53c183bf.jpeg": "/static/media/Pareekshan1.0.53c183bf.jpeg",
+    "static/media/Pareekshan2.0.a8782fe2.jpeg": "/static/media/Pareekshan2.0.a8782fe2.jpeg",
+    "static/media/Prayaas_Logo-01.6ba7e398.svg": "/static/media/Prayaas_Logo-01.6ba7e398.svg",
+    "static/media/SpecialMainsBatch.63378f37.png": "/static/media/SpecialMainsBatch.63378f37.png",
+    "static/media/blob.e7a5fef3.svg": "/static/media/blob.e7a5fef3.svg",
+    "static/media/chaitanya.d5dfe7bc.png": "/static/media/chaitanya.d5dfe7bc.png",
+    "static/media/flag_2.211c18d7.png": "/static/media/flag_2.211c18d7.png",
+    "static/media/optionalcourses-01.4a287faa.png": "/static/media/optionalcourses-01.4a287faa.png",
+    "static/media/pratham.2c6c95ac.jpeg": "/static/media/pratham.2c6c95ac.jpeg",
+    "static/media/prelimsBatch2020(mcq).8e5912e5.png": "/static/media/prelimsBatch2020(mcq).8e5912e5.png",
+    "static/media/vishal.b3b07557.png": "/static/media/vishal.b3b07557.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0d578e99.js",
+    "static/css/2.49bfc874.chunk.css",
+    "static/js/2.db92b3a6.chunk.js",
+    "static/css/main.d77f7479.chunk.css",
+    "static/js/main.b5a23d99.chunk.js"
+  ]
+}
